@@ -1,2 +1,2 @@
-# mini fine analyzer
+# mini code analyzer
 
