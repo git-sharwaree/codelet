@@ -76,7 +76,7 @@ def analyze_code_with_gemini(code, language):
             }]
         }],
         "generation_config": {
-            "max_output_tokens": 500,
+            "max_output_tokens": 1000,
             "temperature": 0.7
         }
     }
