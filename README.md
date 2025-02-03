@@ -1,2 +1,2 @@
-# Multilanguage-code-analyzer-using-llm
+# mini fine analyzer
 
